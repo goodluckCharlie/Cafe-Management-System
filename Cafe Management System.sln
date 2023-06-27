@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafe Management System", "Cafe Management System\Cafe Management System.csproj", "{32FC9555-522D-4C34-847A-60EFE8EF6CBB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Goodluck Cafe Shop", "Goodluck Cafe Shop\Goodluck Cafe Shop.vdproj", "{3258995F-053C-46D4-AAF6-18990F12FCF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FC9555-522D-4C34-847A-60EFE8EF6CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FC9555-522D-4C34-847A-60EFE8EF6CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FC9555-522D-4C34-847A-60EFE8EF6CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FC9555-522D-4C34-847A-60EFE8EF6CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3258995F-053C-46D4-AAF6-18990F12FCF9}.Debug|Any CPU.ActiveCfg = Debug
+		{3258995F-053C-46D4-AAF6-18990F12FCF9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA592EC-99B4-463F-A372-77F82765EFCC}
+	EndGlobalSection
+EndGlobal

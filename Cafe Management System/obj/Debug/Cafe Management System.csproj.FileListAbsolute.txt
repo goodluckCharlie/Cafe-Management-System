@@ -1,0 +1,91 @@
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.login.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_Welcome.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_AddItems.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UC_PlaceOrder.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_UpdateItem.resources
+C:\Users\Jahman\source\repos\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_RemoveItems.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_AddItems.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_RemoveItems.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_UpdateItem.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_Welcome.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.login.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UC_PlaceOrder.resources
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Kapile\Desktop\PRO\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_AddItems.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_RemoveItems.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_UpdateItem.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_Welcome.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.login.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UC_PlaceOrder.resources
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\PRO\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojAssemblyReference.cache
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_AddItems.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_RemoveItems.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_UpdateItem.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_Welcome.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.login.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UC_PlaceOrder.resources
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\Kapile\Desktop\Sem#7\Main\System Design & Analysis 2\Project\Projects\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\bin\Debug\Guna.UI2.dll
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.SuggestedBindingRedirects.cache
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_AddItems.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_RemoveItems.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_UpdateItem.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.allUserControls.UC_Welcome.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.login.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UC_PlaceOrder.resources
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\sensitiveArchive\projectsArchive\Cafee\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
